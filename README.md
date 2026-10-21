@@ -1,7 +1,7 @@
-# FirmStation5
+# FirmStations5
 
-FirmStation5, is an open source launcher for PS5 firmware.
+FirmStations5, is an open source emulator of PS4/PS5 firmware.
 
 # Progress
 
-Coming soon.
+For now, it can only run basic ELF file. Don't expect it can run PS4/PS5 firmware.
