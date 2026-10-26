@@ -21,9 +21,7 @@ For now, it can only run basic ELF file. Don't expect it can run PS4/PS5 VSH fir
 | PS4 | `11.00` | `Not running yet 🔴` |
 | PS5 | `5.00` | `Not running yet 🔴` |
 
-# Run
-
-## System requirements
+# System & file requirements
 
 - Windows 10 version 1803
 - A 64-bit x86 processor
