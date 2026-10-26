@@ -1,7 +1,7 @@
 # FirmStations5
 
-[![Platform](https://img.shields.io/badge/platform-Windows.svg)](#system-requirements)
-[![Status](https://img.shields.io/badge/status-active%20development-orange.svg)]([#current-status](#progress--compatibility))
+[![Platform](https://img.shields.io/badge/platform-Windows.svg)](#system--file-requirements)
+[![Status](https://img.shields.io/badge/status-active%20development-orange.svg)](#progress--compatibility)
 [![License](https://img.shields.io/badge/license-GPL--2.0-blue.svg)](LICENSE)
 
 FirmStations5, is an open source VSH emulator of PS4/PS5 firmware. The goal is to run PS4/PS5 VSH by using this things. Created by Malaysian developer.
